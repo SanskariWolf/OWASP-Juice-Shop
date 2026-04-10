@@ -59,5 +59,3 @@ It Solved a few 1-start challenges
 		![](Images/Pasted%20image%2020260410091551.png)
 		![](Images/Pasted%20image%2020260410091814.png)
 
-
-![](Images/Pasted%20image%2020260410121514.png)
