@@ -42,3 +42,5 @@ _Node was was already installed in the system_
 ---
 ## Let's start with exploiting the Owasp Juice Shop
 ![](Images/Pasted%20image%2020260413102515.png)
+
+[02 Challenge Hunting (Score Board)](02%20Challenge%20Hunting%20(Score%20Board).md)

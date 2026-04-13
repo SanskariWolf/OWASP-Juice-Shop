@@ -1,0 +1,19 @@
+## Challenges covered in this chapter
+
+| Name                       | Description                                                                                                                                                                          | Difficulty |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| [[Confidential Document]]  | Access a confidential document.                                                                                                                                                      | ⭐          |
+| Email Leak                 | Perform an unwanted information disclosure by accessing data cross-domain.                                                                                                           | ⭐⭐⭐⭐⭐      |
+| Exposed Credentials        | A developer was careless with hardcoding unused, but still valid credentials for a testing account on the client-side.                                                               | ⭐⭐         |
+| Forgotten Developer Backup | Access a developer’s forgotten backup file.                                                                                                                                          | ⭐⭐⭐⭐       |
+| Forgotten Sales Backup     | Access a salesman’s forgotten backup file.                                                                                                                                           | ⭐⭐⭐⭐       |
+| GDPR Data Theft            | Steal someone else’s personal data without using Injection.                                                                                                                          | ⭐⭐⭐⭐       |
+| Leaked API Key             | Inform the shop about a leaked API key. (Mention the exact key in your comment)                                                                                                      | ⭐⭐⭐⭐⭐      |
+| Leaked Unsafe Product      | Identify an unsafe product that was removed from the shop and inform the shop which ingredients are dangerous.                                                                       | ⭐⭐⭐⭐       |
+| Login Amy                  | Log in with Amy’s original user credentials. (This could take 93.83 billion trillion trillion centuries to brute force, but luckily she did not read the "One Important Final Note") | ⭐⭐⭐        |
+| Login MC SafeSearch        | Log in with MC SafeSearch’s original user credentials without applying SQL Injection or any other bypass.                                                                            | ⭐⭐         |
+| Meta Geo Stalking          | Determine the answer to John’s security question by looking at an upload of him to the Photo Wall and use it to reset his password via the Forgot Password mechanism.                | ⭐⭐         |
+| NFT Takeover               | Take over the wallet containing our official Soul Bound Token (NFT).                                                                                                                 | ⭐⭐         |
+| Reset Uvogin’s Password    | Reset Uvogin’s password via the Forgot Password mechanism with _his original answer_ to his security question.                                                                       | ⭐⭐⭐⭐       |
+| Retrieve Blueprint         | Deprive the shop of earnings by downloading the blueprint for one of its products.                                                                                                   | ⭐⭐⭐⭐⭐      |
+| Visual Geo Stalking        | Determine the answer to Emma’s security question by looking at an upload of her to the Photo Wall and use it to reset her password via the Forgot Password mechanism.                | ⭐⭐⭐⭐       |
