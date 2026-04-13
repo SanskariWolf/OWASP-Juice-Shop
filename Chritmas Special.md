@@ -1,1 +1,0 @@
-In SQLi, if the error message is shown that the query syntax is correct or not. But when the error message does not appear, it becomes Blind SQLi where attacker ask true or false question to the database. This make is difficult to exploit but not impossible. 
