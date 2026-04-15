@@ -4,7 +4,7 @@
 | --------------------------- | ------------------------------------------------------------------------------------------- | ---------- |
 | Admin Registration          | Register as a user with administrator privileges.                                           | ⭐⭐⭐        |
 | Deluxe Fraud                | Obtain a Deluxe Membership without paying for it.                                           | ⭐⭐⭐        |
-| Empty User Registration     | Register a user with an empty email and password.                                           | ⭐⭐         |
+| [[Empty User Registration]] | Register a user with an empty email and password.                                           | ⭐⭐         |
 | Expired Coupon              | Successfully redeem an expired campaign coupon code.                                        | ⭐⭐⭐⭐       |
 | Mint the Honey Pot          | Mint the Honey Pot NFT by gathering BEEs from the bee haven.                                | ⭐⭐⭐        |
 | [[Missing Encoding]]        | Retrieve the photo of Bjoern’s cat in "melee combat-mode".                                  | ⭐          |

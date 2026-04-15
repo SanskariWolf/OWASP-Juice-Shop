@@ -1,0 +1,14 @@
+POST http://localhost:3000/rest/user/login HTTP/1.1
+Host: localhost:3000
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Content-Type: application/json
+Content-Length: 35
+Origin: http://localhost:3000
+Connection: keep-alive
+Referer: http://localhost:3000/
+Cookie: language=en; welcomebanner_status=dismiss
+Priority: u=0
+
+{"email":"*","password":"*"}
